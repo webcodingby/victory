@@ -1,0 +1,29 @@
+.nav__cuba a{
+    background: darkkhaki;
+    width: 100%;
+}
+
+.nav__cuba a:hover{
+    background-color: green;
+    color: yellow;
+    text-decoration: underline;
+}
+
+.contact__cuba{
+    flex-direction: column;
+}
+
+.contact__cuba .elem__cuba .elem__item{
+    text-shadow: -1px -1px #999;
+}
+
+.contact__cuba .elem__cuba .elem__item:hover{
+    text-shadow: 1px 1px #fff;
+}
+
+.theme-button.cuba {
+    background-color: green;
+    color: yellow;
+}
+
+

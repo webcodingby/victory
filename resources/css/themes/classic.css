@@ -1,0 +1,27 @@
+.nav__classic{
+    background: blanchedalmond;
+}
+
+.nav__classic a{
+    background: blanchedalmond;
+    width: 100%;
+}
+
+.nav__classic a:hover{
+    background: blue;
+    color: white;
+    text-decoration: underline;
+}
+
+.contact__classic .elem__classic .elem__item{
+    text-shadow: -1px -1px blue;
+}
+
+.contact__classic .elem__classic .elem__item:hover{
+    text-shadow: 1px 1px blue;
+}
+
+.theme-button.classic {
+    background-color: blue;
+    color: white;
+}
